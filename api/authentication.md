@@ -3,6 +3,8 @@ title: "Авторизация в API NN Agent: bearer-токен и как ег
 description: "Каждый запрос к API NN Agent авторизуется bearer-токеном в заголовке Authorization. Где взять токен и как выглядит ответ при его отсутствии."
 ---
 
+# Авторизация: bearer-токен
+
 Все операции API NN Agent, кроме проверки состояния, требуют bearer-токен в заголовке `Authorization`.
 
 ```bash
