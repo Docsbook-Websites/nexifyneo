@@ -15,6 +15,7 @@ NN Agent — движок исходящих продаж в Telegram и WhatsAp
 - [Как устроен NN Agent](./concepts.md) — клиент, аккаунт, кампания, пул сообщений, диалог {compass}
 - [Сценарии](./use-cases.md) — лидогенерация, B2B, рекрутинг, партнёрская программа {target}
 - [Тарифы](./pricing.md) — что стоит денег и как узнать цену под ваш объём {credit-card}
+- [Частые вопросы](./faq.md) — блокировки, данные, интеграции {circle-help}
 
 ## Возможности
 
@@ -26,6 +27,11 @@ NN Agent — движок исходящих продаж в Telegram и WhatsAp
 - [Память клиента и AI-задачи](./features/memory-and-tasks.md) — контекст между сессиями и задачи менеджеру {brain}
 - [Выбор модели](./features/model-routing.md) — своя LLM под каждый шаг сценария {cpu}
 
+## Руководства
+
+- [Подключить аккаунт по API](./guides/connect-account.md) — сессия авторизации, код и облачный пароль {user-round-plus}
+- [Запустить первую кампанию по API](./guides/first-campaign.md) — кампания, контакты, пул, аккаунты {play}
+
 ## Интеграция по API
 
 - [Обзор API](./api/overview.md) — базовый адрес, версии v1 и v2, что изменилось {network}
@@ -35,6 +41,7 @@ NN Agent — движок исходящих продаж в Telegram и WhatsAp
 - [Диалоги](./api/dialogs.md) — чтение переписки и отправка сообщений {messages-square}
 - [Парсер](./api/parser.md) — сбор участников и проверка сущностей {search}
 - [Ошибки](./api/errors.md) — коды ответов и request_id {triangle-alert}
+- [Справочник v1](./api/v1-reference.md) — все 43 операции первой версии {list}
 
 <!-- /widget -->
 
