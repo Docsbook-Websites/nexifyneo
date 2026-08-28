@@ -59,7 +59,7 @@ NN Agent подключается по API: аккаунты и переписк
 
 Опишите в боте, что за база и какой результат нужен — менеджеры покажут кабинет изнутри на этом сценарии.
 
-[Написать в бот](https://t.me/NN_official_bot?start=nn_agent_landing) · [Тарифы](./pricing.md)
+[Написать в бот](https://t.me/NN_official_bot?start=nn_agent_docsbook) · [Тарифы](./pricing.md)
 
 <!-- /widget -->
 
