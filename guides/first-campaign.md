@@ -82,4 +82,3 @@ curl https://api.nexifyneo.com/v2/campaigns/CAMPAIGN_ID \
 - [Кампании и контакты в API](../api/campaigns.md) — полный перечень операций.
 - [Диалоги](../api/dialogs.md) — чтение переписки и отправка сообщений.
 - [AI Outreach](../features/ai-outreach.md) — как это выглядит в кабинете.
-</дальше>
