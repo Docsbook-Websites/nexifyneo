@@ -2,7 +2,7 @@
 title: "NN Agent: кабинет, AI-агенты и API для исходящих продаж"
 description: "NN Agent — AI SDR для исходящих продаж в Telegram и WhatsApp и Telegram CRM для готового кабинета отдела продаж: агент инициирует диалог, квалифицирует лида и передаёт менеджеру, а интеграция с вашей CRM идёт через API."
 status: generated
-version: "0.2"
+version: "0.3"
 ---
 
 # NN Agent: кабинет, AI-агенты и API для исходящих продаж
@@ -24,6 +24,7 @@ NN Agent — движок исходящих продаж в Telegram и WhatsAp
 ## Сравнения
 
 - [NN Agent CRM vs CRMChat и Entergram](./telegram-crm.md) — сравнение Telegram CRM по критериям: живой аккаунт или бот, единая лента, защита от блокировки, цена {scale}
+- [NN Agent как мультиканальный AI-агент](./multichannel-ai-agent.md) — сравнение с NovaSales, ConvertChats, BotSailor и Respond.io: кто пишет первым, живой аккаунт или API, единая лента, цена {shuffle}
 
 ## Возможности
 
