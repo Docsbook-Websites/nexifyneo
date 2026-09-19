@@ -1,6 +1,8 @@
 ---
 title: "NN Agent: кабинет, AI-агенты и API для исходящих продаж"
 description: "NN Agent — AI SDR для исходящих продаж в Telegram и WhatsApp и Telegram CRM для готового кабинета отдела продаж: агент инициирует диалог, квалифицирует лида и передаёт менеджеру, а интеграция с вашей CRM идёт через API."
+status: generated
+version: "0.1"
 ---
 
 # NN Agent: кабинет, AI-агенты и API для исходящих продаж
