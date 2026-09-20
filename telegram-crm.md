@@ -2,7 +2,7 @@
 title: "NN Agent CRM как Telegram CRM: сравнение с CRMChat и Entergram"
 description: "Сравнение NN Agent CRM с CRMChat и Entergram по критериям, которыми реально пользуются при выборе Telegram CRM: живой аккаунт или бот, единая лента, защита от блокировки, AI-исходящие, цена. Данные на 19 сентября 2026."
 status: generated
-version: "0.2"
+version: "0.3"
 ---
 
 # NN Agent CRM как Telegram CRM: сравнение с CRMChat и Entergram
@@ -44,7 +44,7 @@ NN Agent подключает живой Telegram-аккаунт, а не бот
 - CRMChat: [crmchat.ai](https://crmchat.ai/), [crmchat.ai/pricing](https://crmchat.ai/pricing) — по данным на 19 сентября 2026.
 - Entergram: [entergram.com](https://www.entergram.com/), [entergram.com/pricing](https://www.entergram.com/pricing) — по данным на 19 сентября 2026.
 - GramSales: [gramsales.com](https://gramsales.com/) — по данным на 20 сентября 2026.
-- NN Agent: [nexifyneo.com/nn-agent](https://nexifyneo.com/nn-agent/) и [тарифы NN Agent](./pricing.md) — по данным на 19 сентября 2026.
+- NN Agent: [nexifyneo.com/nn-agent](https://nexifyneo.com/nn-agent/) и [тарифы NN Agent](./pricing-plans.md) — по данным на 19 сентября 2026.
 
 <!-- widget:cta -->
 
@@ -54,12 +54,12 @@ NN Agent подключает живой Telegram-аккаунт, а не бот
 
 Назовите в боте число аккаунтов и размер базы — менеджеры вернутся с ценой под ваш объём.
 
-[Написать в бот](https://t.me/NN_official_bot?start=nn_agent_docsbook) · [Тарифы](./pricing.md)
+[Написать в бот](https://t.me/NN_official_bot?start=nn_agent_docsbook) · [Тарифы](./pricing-plans.md)
 
 <!-- /widget -->
 
 ## Дальше
 
 - [Частые вопросы](./faq.md) — блокировки аккаунтов, доступ менеджеров, интеграция с CRM.
-- [Тарифы](./pricing.md) — что стоит денег и как считается объём.
+- [Тарифы](./pricing-plans.md) — что стоит денег и как считается объём.
 

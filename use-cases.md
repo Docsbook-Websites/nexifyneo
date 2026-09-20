@@ -2,7 +2,7 @@
 title: "Сценарии NN Agent: лидогенерация, B2B, рекрутинг, партнёрство"
 description: "Пять задач, под которые NN Agent применяют чаще всего: лидогенерация, B2B-продажи, рекрутинг, встраивание по API и аналитика. Что делает AI, а что человек."
 status: generated
-version: "0.2"
+version: "0.3"
 ---
 
 # Сценарии применения NN Agent
@@ -61,7 +61,7 @@ NN Agent подключается по API: аккаунты и переписк
 
 Опишите в боте, что за база и какой результат нужен — менеджеры покажут кабинет изнутри на этом сценарии.
 
-[Написать в бот](https://t.me/NN_official_bot?start=nn_agent_docsbook) · [Тарифы](./pricing.md)
+[Написать в бот](https://t.me/NN_official_bot?start=nn_agent_docsbook) · [Тарифы](./pricing-plans.md)
 
 <!-- /widget -->
 

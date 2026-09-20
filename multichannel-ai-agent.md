@@ -2,7 +2,7 @@
 title: "NN Agent как мультиканальный AI-агент: сравнение с NovaSales, ConvertChats, BotSailor и Respond.io"
 description: "Сравнение NN Agent с NovaSales, ConvertChats, BotSailor и Respond.io по критериям выбора AI-агента для Telegram и WhatsApp вместе: кто пишет первым, живой аккаунт или API, единая лента, цена. Данные на 19 сентября 2026."
 status: generated
-version: "0.1"
+version: "0.2"
 ---
 
 # NN Agent как мультиканальный AI-агент: сравнение с NovaSales, ConvertChats, BotSailor и Respond.io
@@ -46,7 +46,7 @@ NN Agent подключает живой аккаунт Telegram или WhatsApp
 - ConvertChats: [convertchats.com/ai-agent](https://convertchats.com/ai-agent) — по данным на 19 сентября 2026.
 - BotSailor: [botsailor.com/pricing](https://botsailor.com/pricing) — по данным на 19 сентября 2026.
 - Respond.io: [respond.io/ai-agents](https://respond.io/ai-agents), тарифы по данным обзора [chatarmin.com/en/blog/respond-io-pricing](https://chatarmin.com/en/blog/respond-io-pricing) — по данным на 19 сентября 2026.
-- NN Agent: [nexifyneo.com/nn-agent](https://nexifyneo.com/nn-agent/) и [тарифы NN Agent](./pricing.md) — по данным на 19 сентября 2026.
+- NN Agent: [nexifyneo.com/nn-agent](https://nexifyneo.com/nn-agent/) и [тарифы NN Agent](./pricing-plans.md) — по данным на 19 сентября 2026.
 
 <!-- widget:cta -->
 
@@ -56,7 +56,7 @@ NN Agent подключает живой аккаунт Telegram или WhatsApp
 
 Назовите в боте оба канала и размер базы — менеджеры вернутся с ценой под ваш объём.
 
-[Написать в бот](https://t.me/NN_official_bot?start=nn_agent_docsbook) · [Тарифы](./pricing.md)
+[Написать в бот](https://t.me/NN_official_bot?start=nn_agent_docsbook) · [Тарифы](./pricing-plans.md)
 
 <!-- /widget -->
 
@@ -64,4 +64,4 @@ NN Agent подключает живой аккаунт Telegram или WhatsApp
 
 - [Частые вопросы](./faq.md) — один агент на Telegram и WhatsApp, блокировки аккаунтов, интеграция с CRM.
 - [NN Agent CRM vs CRMChat и Entergram](./telegram-crm.md) — то же сравнение, но для Telegram CRM отдельно.
-- [Тарифы](./pricing.md) — что стоит денег и как считается объём.
+- [Тарифы](./pricing-plans.md) — что стоит денег и как считается объём.
