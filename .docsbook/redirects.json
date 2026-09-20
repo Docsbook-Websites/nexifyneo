@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "redirects": [
+    {
+      "from": "api/accounts",
+      "to": "api-reference/accounts",
+      "at": "2026-09-20T07:20:18.765Z"
+    },
+    {
+      "from": "api/authentication",
+      "to": "api-reference/authentication",
+      "at": "2026-09-20T07:20:18.765Z"
+    },
+    {
+      "from": "api/campaigns",
+      "to": "api-reference/campaigns",
+      "at": "2026-09-20T07:20:18.765Z"
+    },
+    {
+      "from": "api/dialogs",
+      "to": "api-reference/dialogs",
+      "at": "2026-09-20T07:20:18.765Z"
+    },
+    {
+      "from": "api/errors",
+      "to": "api-reference/errors",
+      "at": "2026-09-20T07:20:18.765Z"
+    },
+    {
+      "from": "api/overview",
+      "to": "api-reference/overview",
+      "at": "2026-09-20T07:20:18.765Z"
+    },
+    {
+      "from": "api/parser",
+      "to": "api-reference/parser",
+      "at": "2026-09-20T07:20:18.765Z"
+    },
+    {
+      "from": "api/v1-reference",
+      "to": "api-reference/v1-reference",
+      "at": "2026-09-20T07:20:18.765Z"
+    }
+  ]
+}

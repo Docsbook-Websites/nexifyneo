@@ -2,7 +2,7 @@
 title: "NN Agent: кабинет, AI-агенты и API для исходящих продаж"
 description: "NN Agent — AI SDR для исходящих продаж в Telegram и WhatsApp и Telegram CRM для готового кабинета отдела продаж: агент инициирует диалог, квалифицирует лида и передаёт менеджеру, а интеграция с вашей CRM идёт через API."
 status: generated
-version: "0.3"
+version: "0.4"
 ---
 
 # NN Agent: кабинет, AI-агенты и API для исходящих продаж
@@ -43,14 +43,14 @@ NN Agent — движок исходящих продаж в Telegram и WhatsAp
 
 ## Интеграция по API
 
-- [Обзор API](./api/overview.md) — базовый адрес, версии v1 и v2, что изменилось {network}
-- [Авторизация](./api/authentication.md) — bearer-токен и как его получить {key-round}
-- [Аккаунты](./api/accounts.md) — подключение аккаунтов и auth-сессии {user-round}
-- [Кампании и контакты](./api/campaigns.md) — кампании, загрузка контактов, пул сообщений {megaphone}
-- [Диалоги](./api/dialogs.md) — чтение переписки и отправка сообщений {messages-square}
-- [Парсер](./api/parser.md) — сбор участников и проверка сущностей {search}
-- [Ошибки](./api/errors.md) — коды ответов и request_id {triangle-alert}
-- [Справочник v1](./api/v1-reference.md) — все 43 операции v1 вне парсера {list}
+- [Обзор API](./api-reference/overview.md) — базовый адрес, версии v1 и v2, что изменилось {network}
+- [Авторизация](./api-reference/authentication.md) — bearer-токен и как его получить {key-round}
+- [Аккаунты](./api-reference/accounts.md) — подключение аккаунтов и auth-сессии {user-round}
+- [Кампании и контакты](./api-reference/campaigns.md) — кампании, загрузка контактов, пул сообщений {megaphone}
+- [Диалоги](./api-reference/dialogs.md) — чтение переписки и отправка сообщений {messages-square}
+- [Парсер](./api-reference/parser.md) — сбор участников и проверка сущностей {search}
+- [Ошибки](./api-reference/errors.md) — коды ответов и request_id {triangle-alert}
+- [Справочник v1](./api-reference/v1-reference.md) — все 43 операции v1 вне парсера {list}
 
 <!-- /widget -->
 
